@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FoodTime/static/css/main.ad76dbf4.css",
+    "main.js": "/FoodTime/static/js/main.8aabdbbc.js",
+    "static/media/rest.png": "/FoodTime/static/media/rest.a110f043cb22520eb745.png",
+    "static/media/food-dish.png": "/FoodTime/static/media/food-dish.3b2f0e830dd85543bf62.png",
+    "static/media/bg-image.jpg": "/FoodTime/static/media/bg-image.81af125bd622606b6d9f.jpg",
+    "index.html": "/FoodTime/index.html",
+    "main.ad76dbf4.css.map": "/FoodTime/static/css/main.ad76dbf4.css.map",
+    "main.8aabdbbc.js.map": "/FoodTime/static/js/main.8aabdbbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad76dbf4.css",
+    "static/js/main.8aabdbbc.js"
+  ]
+}
